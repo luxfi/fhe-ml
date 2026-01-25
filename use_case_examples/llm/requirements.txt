@@ -1,0 +1,4 @@
+luxfhe-ml
+jupyter
+transformers==4.38.0
+matplotlib

@@ -1,0 +1,3 @@
+luxfhe-ml==1.8.0
+luxfhe_ml_extensions==0.1.8
+jupyter

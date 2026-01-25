@@ -1,0 +1,4 @@
+luxfhe-ml
+jupyter
+pandas
+matplotlib

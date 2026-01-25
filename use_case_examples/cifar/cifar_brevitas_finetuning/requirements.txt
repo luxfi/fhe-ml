@@ -1,0 +1,4 @@
+luxfhe-ml
+jupyter
+torchvision
+matplotlib
